@@ -6,6 +6,7 @@
 
 - **서비스 링크**: [https://www.cotree.site](https://www.cotree.site)
 - **GitHub**: [https://github.com/prgrms-web-devcourse-final-project/WEB3_4_SsamMuDan_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_SsamMuDan_BE)
+- **협업 기록**: [Cotree Project Notion](https://witty-wedelia-088.notion.site/Cotree-Project-1d873f8767a280f9afb0fbee49d83ed4)
 
 ---
 
